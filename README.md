@@ -21,4 +21,6 @@ The vision of SecureMessaging is to provide a secure, decentralized, and tamper-
 - **User Privacy**: Messages are only accessible to the intended recipient, maintaining confidentiality.
 
 ## Contract Address
-Address: `0xDD1d0152fBE111b9FA02A4420b834390AF01Cb9E`
+Address: `0xDD1d0152fBE111b9FA02A4420b834390AF01Cb9E
+![image](https://github.com/user-attachments/assets/c6953143-7f06-4ac8-b6c5-c05d4413bd76)
+
